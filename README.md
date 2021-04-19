@@ -1,6 +1,8 @@
 # Jeu d'Échec
 
-C'est un programme qui permettre à deux joueurs humains de jouer l'un contre l'autre aux échecs (et aider un débutant à apprendre le déplacement des pièces).
+C'est un programme dans la ligne de commandes qui permet à deux joueurs humains de jouer l'un contre l'autre aux échecs.
+
+<p align="center"><img src="/demo.gif?raw=true"/></p>
 
 ## Compiler
 
