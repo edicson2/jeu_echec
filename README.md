@@ -2,6 +2,8 @@
 
 C'est un programme dans la ligne de commandes qui permet à deux joueurs humains de jouer l'un contre l'autre aux échecs.
 
+[View on Repl.it](https://repl.it/@dsaasd23/chess-CLI)
+
 <p align="center"><img src="/demo.gif?raw=true"/></p>
 
 ## Compiler
